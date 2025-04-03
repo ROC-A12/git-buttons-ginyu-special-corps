@@ -1,13 +1,16 @@
 const motds = [
-    "Try the mushroom stew!",
+    "nate higgers",
     "Awesome!",
-    "GOTY!",
+    "GOTH mommy",
     "Limited edition!",
     "It's here!",
     "More than 500 sold!",
     "Holy cow, man!",
     "The bee's knees!",
     "Ceci n'est pas une title screen!",
+    "kra kra boem ",
+    "It's a trap!",
+    "big-dick-randy",
 ];
 
 const getRandomInt = function(min, max) {
